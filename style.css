@@ -28,7 +28,6 @@ body{
   -webkit-user-select: none;
   touch-action: manipulation;
 }
-
 .button:hover {
   box-shadow: rgba(244, 161, 171, 0.35) 0 -25px 18px -14px inset,rgba(234, 120, 120, 0.25) 0 1px 2px,rgba(241, 108, 128, 0.25) 0 2px 4px,rgba(240, 88, 146, 0.25) 0 4px 8px,rgba(240, 96, 151, 0.25) 0 8px 16px,rgba(245, 84, 86, 0.25) 0 16px 32px;
   transform: scale(1.05) rotate(-1deg);
